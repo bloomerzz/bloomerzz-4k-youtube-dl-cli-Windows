@@ -6,7 +6,7 @@
 - Download video from 320p to 4k.
 - Pause and Resume.
 - Select Desired Qualiry
-- All videos are converted to MP$.
+- All videos are converted to MP4
 
 ## HOW TO PAUSE DOWNLOAD
 - Click Any Where on the Black Screen
